@@ -1,0 +1,23 @@
+{
+  "name": "socloz/test-php-data",
+  "description": "Recruitment test for PHP / DATA developers.",
+  "type": "project",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.7.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Socloz\\Recruitment\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Socloz\\Recruitment\\Tests\\": "tests/"
+    }
+  }
+}

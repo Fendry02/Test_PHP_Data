@@ -1,0 +1,1119 @@
+{
+    "store_count": 185,
+    "sku_count": 25411,
+    "max_quantity": 21,
+    "avg_quantity": 4.5866074173028,
+    "availability_rate": 0.90883582019704,
+    "stores": {
+        "124": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5671953091181,
+            "availability_rate": 0.90815001377356,
+            "available_sku_count": 23077
+        },
+        "125": {
+            "max_quantity": 15,
+            "avg_quantity": 4.5704616111133,
+            "availability_rate": 0.9080319546653,
+            "available_sku_count": 23074
+        },
+        "126": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5647947739168,
+            "availability_rate": 0.90700877572705,
+            "available_sku_count": 23048
+        },
+        "127": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5756955649128,
+            "availability_rate": 0.90633977411357,
+            "available_sku_count": 23031
+        },
+        "128": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6122938884735,
+            "availability_rate": 0.90980284128921,
+            "available_sku_count": 23119
+        },
+        "129": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5602691747668,
+            "availability_rate": 0.90677265751053,
+            "available_sku_count": 23042
+        },
+        "130": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6031639841014,
+            "availability_rate": 0.91118019755224,
+            "available_sku_count": 23154
+        },
+        "131": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5771909802841,
+            "availability_rate": 0.90696942269096,
+            "available_sku_count": 23047
+        },
+        "132": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5749085041911,
+            "availability_rate": 0.90740230608791,
+            "available_sku_count": 23058
+        },
+        "133": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5928928416827,
+            "availability_rate": 0.90838613199008,
+            "available_sku_count": 23083
+        },
+        "134": {
+            "max_quantity": 18,
+            "avg_quantity": 4.6134744795561,
+            "availability_rate": 0.90960607610877,
+            "available_sku_count": 23114
+        },
+        "135": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5723899098815,
+            "availability_rate": 0.90960607610877,
+            "available_sku_count": 23114
+        },
+        "136": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6176065483452,
+            "availability_rate": 0.91192790523789,
+            "available_sku_count": 23173
+        },
+        "137": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5965133210027,
+            "availability_rate": 0.90779583644878,
+            "available_sku_count": 23068
+        },
+        "138": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5995041517453,
+            "availability_rate": 0.91035378379442,
+            "available_sku_count": 23133
+        },
+        "139": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6147337767109,
+            "availability_rate": 0.91062925504703,
+            "available_sku_count": 23140
+        },
+        "140": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5723112038094,
+            "availability_rate": 0.90748101216009,
+            "available_sku_count": 23060
+        },
+        "141": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6032820432096,
+            "availability_rate": 0.90905513360356,
+            "available_sku_count": 23100
+        },
+        "142": {
+            "max_quantity": 19,
+            "avg_quantity": 4.5736885600724,
+            "availability_rate": 0.90641848018575,
+            "available_sku_count": 23033
+        },
+        "143": {
+            "max_quantity": 15,
+            "avg_quantity": 4.5533036873795,
+            "availability_rate": 0.907441659124,
+            "available_sku_count": 23059
+        },
+        "144": {
+            "max_quantity": 17,
+            "avg_quantity": 4.597103616544,
+            "availability_rate": 0.91121955058833,
+            "available_sku_count": 23155
+        },
+        "145": {
+            "max_quantity": 17,
+            "avg_quantity": 4.54535437409,
+            "availability_rate": 0.90531659517532,
+            "available_sku_count": 23005
+        },
+        "146": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5913580732754,
+            "availability_rate": 0.9092125457479,
+            "available_sku_count": 23104
+        },
+        "147": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5915154854197,
+            "availability_rate": 0.90736295305183,
+            "available_sku_count": 23057
+        },
+        "148": {
+            "max_quantity": 15,
+            "avg_quantity": 4.5914761323836,
+            "availability_rate": 0.90874030931486,
+            "available_sku_count": 23092
+        },
+        "149": {
+            "max_quantity": 19,
+            "avg_quantity": 4.6036362205344,
+            "availability_rate": 0.90877966235095,
+            "available_sku_count": 23093
+        },
+        "150": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5891543032545,
+            "availability_rate": 0.90913383967573,
+            "available_sku_count": 23102
+        },
+        "151": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5624729447877,
+            "availability_rate": 0.90748101216009,
+            "available_sku_count": 23060
+        },
+        "152": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5917909566723,
+            "availability_rate": 0.90732360001574,
+            "available_sku_count": 23056
+        },
+        "153": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6092637046948,
+            "availability_rate": 0.91051119593877,
+            "available_sku_count": 23137
+        },
+        "154": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5890362441462,
+            "availability_rate": 0.90909448663964,
+            "available_sku_count": 23101
+        },
+        "155": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5976152060131,
+            "availability_rate": 0.9101176655779,
+            "available_sku_count": 23127
+        },
+        "156": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6291369879186,
+            "availability_rate": 0.91102278540789,
+            "available_sku_count": 23150
+        },
+        "157": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5607414111999,
+            "availability_rate": 0.90578883160836,
+            "available_sku_count": 23017
+        },
+        "158": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5723505568455,
+            "availability_rate": 0.90901578056747,
+            "available_sku_count": 23099
+        },
+        "159": {
+            "max_quantity": 19,
+            "avg_quantity": 4.5972216756523,
+            "availability_rate": 0.90740230608791,
+            "available_sku_count": 23058
+        },
+        "160": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5575931683129,
+            "availability_rate": 0.90618236196923,
+            "available_sku_count": 23027
+        },
+        "161": {
+            "max_quantity": 16,
+            "avg_quantity": 4.583015229625,
+            "availability_rate": 0.90933060485616,
+            "available_sku_count": 23107
+        },
+        "162": {
+            "max_quantity": 20,
+            "avg_quantity": 4.5699893746803,
+            "availability_rate": 0.90913383967573,
+            "available_sku_count": 23102
+        },
+        "163": {
+            "max_quantity": 18,
+            "avg_quantity": 4.6058006375192,
+            "availability_rate": 0.91236078863484,
+            "available_sku_count": 23184
+        },
+        "164": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6272480421865,
+            "availability_rate": 0.91074731415529,
+            "available_sku_count": 23143
+        },
+        "165": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5687300775255,
+            "availability_rate": 0.91121955058833,
+            "available_sku_count": 23155
+        },
+        "166": {
+            "max_quantity": 15,
+            "avg_quantity": 4.5919090157806,
+            "availability_rate": 0.90960607610877,
+            "available_sku_count": 23114
+        },
+        "167": {
+            "max_quantity": 18,
+            "avg_quantity": 4.577112274212,
+            "availability_rate": 0.90850419109834,
+            "available_sku_count": 23086
+        },
+        "168": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6174097831648,
+            "availability_rate": 0.91019637165007,
+            "available_sku_count": 23129
+        },
+        "169": {
+            "max_quantity": 17,
+            "avg_quantity": 4.593916020621,
+            "availability_rate": 0.90673330447444,
+            "available_sku_count": 23041
+        },
+        "170": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5987957970957,
+            "availability_rate": 0.908346778954,
+            "available_sku_count": 23082
+        },
+        "171": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5974577938688,
+            "availability_rate": 0.90815001377356,
+            "available_sku_count": 23077
+        },
+        "172": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6179213726339,
+            "availability_rate": 0.91200661131006,
+            "available_sku_count": 23175
+        },
+        "173": {
+            "max_quantity": 17,
+            "avg_quantity": 4.594821140451,
+            "availability_rate": 0.90996025343355,
+            "available_sku_count": 23123
+        },
+        "174": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5884065955688,
+            "availability_rate": 0.90980284128921,
+            "available_sku_count": 23119
+        },
+        "175": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6119003581126,
+            "availability_rate": 0.90881901538704,
+            "available_sku_count": 23094
+        },
+        "176": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5849828814293,
+            "availability_rate": 0.91086537326355,
+            "available_sku_count": 23146
+        },
+        "177": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6320097595529,
+            "availability_rate": 0.91019637165007,
+            "available_sku_count": 23129
+        },
+        "178": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5729802054228,
+            "availability_rate": 0.907441659124,
+            "available_sku_count": 23059
+        },
+        "179": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5915548384558,
+            "availability_rate": 0.90976348825312,
+            "available_sku_count": 23118
+        },
+        "180": {
+            "max_quantity": 19,
+            "avg_quantity": 4.5928928416827,
+            "availability_rate": 0.90799260162922,
+            "available_sku_count": 23073
+        },
+        "181": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5998976821062,
+            "availability_rate": 0.90700877572705,
+            "available_sku_count": 23048
+        },
+        "182": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5790405729802,
+            "availability_rate": 0.90913383967573,
+            "available_sku_count": 23102
+        },
+        "183": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5575538152768,
+            "availability_rate": 0.90582818464445,
+            "available_sku_count": 23018
+        },
+        "184": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5832513478415,
+            "availability_rate": 0.91177049309354,
+            "available_sku_count": 23169
+        },
+        "185": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5802605170989,
+            "availability_rate": 0.90657589233009,
+            "available_sku_count": 23037
+        },
+        "186": {
+            "max_quantity": 18,
+            "avg_quantity": 4.6186297272835,
+            "availability_rate": 0.91243949470702,
+            "available_sku_count": 23186
+        },
+        "187": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5871866514502,
+            "availability_rate": 0.90622171500531,
+            "available_sku_count": 23028
+        },
+        "188": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6011176262249,
+            "availability_rate": 0.90944866396442,
+            "available_sku_count": 23110
+        },
+        "189": {
+            "max_quantity": 15,
+            "avg_quantity": 4.6127267718704,
+            "availability_rate": 0.90818936680965,
+            "available_sku_count": 23078
+        },
+        "190": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5923812522136,
+            "availability_rate": 0.90791389555704,
+            "available_sku_count": 23071
+        },
+        "191": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5853370587541,
+            "availability_rate": 0.91023572468616,
+            "available_sku_count": 23130
+        },
+        "192": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5720357325568,
+            "availability_rate": 0.90606430286097,
+            "available_sku_count": 23024
+        },
+        "193": {
+            "max_quantity": 16,
+            "avg_quantity": 4.561253000669,
+            "availability_rate": 0.90960607610877,
+            "available_sku_count": 23114
+        },
+        "194": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5750265632994,
+            "availability_rate": 0.90850419109834,
+            "available_sku_count": 23086
+        },
+        "195": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5720750855929,
+            "availability_rate": 0.90854354413443,
+            "available_sku_count": 23087
+        },
+        "196": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6144583054583,
+            "availability_rate": 0.91031443075833,
+            "available_sku_count": 23132
+        },
+        "197": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5645586557003,
+            "availability_rate": 0.9053559482114,
+            "available_sku_count": 23006
+        },
+        "198": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5626697099681,
+            "availability_rate": 0.90964542914486,
+            "available_sku_count": 23115
+        },
+        "199": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5706190232576,
+            "availability_rate": 0.90689071661879,
+            "available_sku_count": 23045
+        },
+        "200": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6134744795561,
+            "availability_rate": 0.9122033764905,
+            "available_sku_count": 23180
+        },
+        "201": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6123725945457,
+            "availability_rate": 0.91086537326355,
+            "available_sku_count": 23146
+        },
+        "202": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5613710597773,
+            "availability_rate": 0.9068513635827,
+            "available_sku_count": 23044
+        },
+        "203": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5838022903467,
+            "availability_rate": 0.90944866396442,
+            "available_sku_count": 23110
+        },
+        "204": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6063515800244,
+            "availability_rate": 0.90645783322183,
+            "available_sku_count": 23034
+        },
+        "205": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5725079689898,
+            "availability_rate": 0.90901578056747,
+            "available_sku_count": 23099
+        },
+        "206": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5902168352288,
+            "availability_rate": 0.91133760969659,
+            "available_sku_count": 23158
+        },
+        "207": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5640864192672,
+            "availability_rate": 0.90492306481445,
+            "available_sku_count": 22995
+        },
+        "208": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5691236078863,
+            "availability_rate": 0.90822871984574,
+            "available_sku_count": 23079
+        },
+        "209": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5878950060997,
+            "availability_rate": 0.9077564834127,
+            "available_sku_count": 23067
+        },
+        "210": {
+            "max_quantity": 20,
+            "avg_quantity": 4.596198496714,
+            "availability_rate": 0.91094407933572,
+            "available_sku_count": 23148
+        },
+        "211": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5783322183306,
+            "availability_rate": 0.9089370744953,
+            "available_sku_count": 23097
+        },
+        "212": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5495651489512,
+            "availability_rate": 0.90630042107749,
+            "available_sku_count": 23030
+        },
+        "213": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5690449018142,
+            "availability_rate": 0.9095273700366,
+            "available_sku_count": 23112
+        },
+        "214": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5941914918736,
+            "availability_rate": 0.90830742591791,
+            "available_sku_count": 23081
+        },
+        "215": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6040691039314,
+            "availability_rate": 0.90996025343355,
+            "available_sku_count": 23123
+        },
+        "216": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5622761796073,
+            "availability_rate": 0.90543465428358,
+            "available_sku_count": 23008
+        },
+        "217": {
+            "max_quantity": 19,
+            "avg_quantity": 4.5533036873795,
+            "availability_rate": 0.90732360001574,
+            "available_sku_count": 23056
+        },
+        "218": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5921451339971,
+            "availability_rate": 0.90877966235095,
+            "available_sku_count": 23093
+        },
+        "219": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5895478336154,
+            "availability_rate": 0.90964542914486,
+            "available_sku_count": 23115
+        },
+        "220": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5998976821062,
+            "availability_rate": 0.91031443075833,
+            "available_sku_count": 23132
+        },
+        "221": {
+            "max_quantity": 15,
+            "avg_quantity": 4.5959230254614,
+            "availability_rate": 0.90956672307269,
+            "available_sku_count": 23113
+        },
+        "222": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5823068749754,
+            "availability_rate": 0.907441659124,
+            "available_sku_count": 23059
+        },
+        "223": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6062335209161,
+            "availability_rate": 0.90909448663964,
+            "available_sku_count": 23101
+        },
+        "224": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5779780410059,
+            "availability_rate": 0.90897642753138,
+            "available_sku_count": 23098
+        },
+        "225": {
+            "max_quantity": 17,
+            "avg_quantity": 4.600724095864,
+            "availability_rate": 0.90956672307269,
+            "available_sku_count": 23113
+        },
+        "226": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5810869308567,
+            "availability_rate": 0.91019637165007,
+            "available_sku_count": 23129
+        },
+        "227": {
+            "max_quantity": 16,
+            "avg_quantity": 4.580772106568,
+            "availability_rate": 0.90712683483531,
+            "available_sku_count": 23051
+        },
+        "228": {
+            "max_quantity": 15,
+            "avg_quantity": 4.5988351501318,
+            "availability_rate": 0.91035378379442,
+            "available_sku_count": 23133
+        },
+        "229": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5973790877966,
+            "availability_rate": 0.91094407933572,
+            "available_sku_count": 23148
+        },
+        "230": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5840777615993,
+            "availability_rate": 0.9080319546653,
+            "available_sku_count": 23074
+        },
+        "231": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5960804376058,
+            "availability_rate": 0.90909448663964,
+            "available_sku_count": 23101
+        },
+        "232": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6109952382826,
+            "availability_rate": 0.90846483806226,
+            "available_sku_count": 23085
+        },
+        "233": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6072173468183,
+            "availability_rate": 0.90996025343355,
+            "available_sku_count": 23123
+        },
+        "234": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5819133446145,
+            "availability_rate": 0.90897642753138,
+            "available_sku_count": 23098
+        },
+        "235": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6170949588761,
+            "availability_rate": 0.90988154736138,
+            "available_sku_count": 23121
+        },
+        "236": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6093030577309,
+            "availability_rate": 0.91318720239266,
+            "available_sku_count": 23205
+        },
+        "237": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6005666837196,
+            "availability_rate": 0.91027507772225,
+            "available_sku_count": 23131
+        },
+        "238": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5752233284798,
+            "availability_rate": 0.91043248986659,
+            "available_sku_count": 23135
+        },
+        "239": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5837235842745,
+            "availability_rate": 0.90724489394357,
+            "available_sku_count": 23054
+        },
+        "240": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6029278658849,
+            "availability_rate": 0.90897642753138,
+            "available_sku_count": 23098
+        },
+        "241": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5791586320885,
+            "availability_rate": 0.90637912714966,
+            "available_sku_count": 23032
+        },
+        "242": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5749872102633,
+            "availability_rate": 0.90881901538704,
+            "available_sku_count": 23094
+        },
+        "243": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5616465310299,
+            "availability_rate": 0.908346778954,
+            "available_sku_count": 23082
+        },
+        "244": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5801031049545,
+            "availability_rate": 0.90818936680965,
+            "available_sku_count": 23078
+        },
+        "245": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5614891188855,
+            "availability_rate": 0.9062610680414,
+            "available_sku_count": 23029
+        },
+        "246": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6026130415962,
+            "availability_rate": 0.90992090039747,
+            "available_sku_count": 23122
+        },
+        "247": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5973790877966,
+            "availability_rate": 0.90901578056747,
+            "available_sku_count": 23099
+        },
+        "248": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6250836252017,
+            "availability_rate": 0.90885836842312,
+            "available_sku_count": 23095
+        },
+        "249": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6104836488135,
+            "availability_rate": 0.91023572468616,
+            "available_sku_count": 23130
+        },
+        "250": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5710912596907,
+            "availability_rate": 0.90791389555704,
+            "available_sku_count": 23071
+        },
+        "251": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5519263311164,
+            "availability_rate": 0.90716618787139,
+            "available_sku_count": 23052
+        },
+        "252": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5793160442328,
+            "availability_rate": 0.9086222502066,
+            "available_sku_count": 23089
+        },
+        "253": {
+            "max_quantity": 16,
+            "avg_quantity": 4.564873479989,
+            "availability_rate": 0.90755971823226,
+            "available_sku_count": 23062
+        },
+        "254": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5838416433828,
+            "availability_rate": 0.91153437487702,
+            "available_sku_count": 23163
+        },
+        "255": {
+            "max_quantity": 19,
+            "avg_quantity": 4.6012356853331,
+            "availability_rate": 0.90960607610877,
+            "available_sku_count": 23114
+        },
+        "256": {
+            "max_quantity": 17,
+            "avg_quantity": 4.550824446106,
+            "availability_rate": 0.90547400731966,
+            "available_sku_count": 23009
+        },
+        "257": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5805359883515,
+            "availability_rate": 0.91165243398528,
+            "available_sku_count": 23166
+        },
+        "258": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5995828578175,
+            "availability_rate": 0.91243949470702,
+            "available_sku_count": 23186
+        },
+        "259": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5667624257211,
+            "availability_rate": 0.90736295305183,
+            "available_sku_count": 23057
+        },
+        "260": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5985203258431,
+            "availability_rate": 0.90968478218095,
+            "available_sku_count": 23116
+        },
+        "261": {
+            "max_quantity": 19,
+            "avg_quantity": 4.5783715713667,
+            "availability_rate": 0.90704812876313,
+            "available_sku_count": 23049
+        },
+        "262": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5603085278029,
+            "availability_rate": 0.90571012553619,
+            "available_sku_count": 23015
+        },
+        "263": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5776238636811,
+            "availability_rate": 0.90740230608791,
+            "available_sku_count": 23058
+        },
+        "264": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5883672425328,
+            "availability_rate": 0.90795324859313,
+            "available_sku_count": 23072
+        },
+        "265": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5582621699264,
+            "availability_rate": 0.90708748179922,
+            "available_sku_count": 23050
+        },
+        "266": {
+            "max_quantity": 19,
+            "avg_quantity": 4.5647554208807,
+            "availability_rate": 0.90728424697965,
+            "available_sku_count": 23055
+        },
+        "267": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6159930738656,
+            "availability_rate": 0.91259690685136,
+            "available_sku_count": 23190
+        },
+        "268": {
+            "max_quantity": 18,
+            "avg_quantity": 4.6101688245248,
+            "availability_rate": 0.91177049309354,
+            "available_sku_count": 23169
+        },
+        "269": {
+            "max_quantity": 16,
+            "avg_quantity": 4.576679390815,
+            "availability_rate": 0.90901578056747,
+            "available_sku_count": 23099
+        },
+        "270": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6176065483452,
+            "availability_rate": 0.91106213844398,
+            "available_sku_count": 23151
+        },
+        "271": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5873834166306,
+            "availability_rate": 0.90630042107749,
+            "available_sku_count": 23030
+        },
+        "272": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5641651253394,
+            "availability_rate": 0.91066860808311,
+            "available_sku_count": 23141
+        },
+        "273": {
+            "max_quantity": 21,
+            "avg_quantity": 4.6049348707253,
+            "availability_rate": 0.91003895950573,
+            "available_sku_count": 23125
+        },
+        "274": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5628664751486,
+            "availability_rate": 0.91003895950573,
+            "available_sku_count": 23125
+        },
+        "275": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5825429931919,
+            "availability_rate": 0.90874030931486,
+            "available_sku_count": 23092
+        },
+        "276": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5858092951871,
+            "availability_rate": 0.90877966235095,
+            "available_sku_count": 23093
+        },
+        "277": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5342174648774,
+            "availability_rate": 0.90622171500531,
+            "available_sku_count": 23028
+        },
+        "278": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5737672661446,
+            "availability_rate": 0.90885836842312,
+            "available_sku_count": 23095
+        },
+        "279": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5843138798158,
+            "availability_rate": 0.91090472629963,
+            "available_sku_count": 23147
+        },
+        "280": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5840777615993,
+            "availability_rate": 0.90944866396442,
+            "available_sku_count": 23110
+        },
+        "281": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5850222344654,
+            "availability_rate": 0.9056707725001,
+            "available_sku_count": 23014
+        },
+        "282": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5675494864429,
+            "availability_rate": 0.9092125457479,
+            "available_sku_count": 23104
+        },
+        "283": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5645586557003,
+            "availability_rate": 0.90618236196923,
+            "available_sku_count": 23027
+        },
+        "284": {
+            "max_quantity": 19,
+            "avg_quantity": 4.5634174176538,
+            "availability_rate": 0.90413600409272,
+            "available_sku_count": 22975
+        },
+        "285": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5575931683129,
+            "availability_rate": 0.90480500570619,
+            "available_sku_count": 22992
+        },
+        "286": {
+            "max_quantity": 18,
+            "avg_quantity": 4.6065876982409,
+            "availability_rate": 0.91200661131006,
+            "available_sku_count": 23175
+        },
+        "287": {
+            "max_quantity": 17,
+            "avg_quantity": 4.589390421471,
+            "availability_rate": 0.9095273700366,
+            "available_sku_count": 23112
+        },
+        "288": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5635748297981,
+            "availability_rate": 0.90960607610877,
+            "available_sku_count": 23114
+        },
+        "289": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5777419227893,
+            "availability_rate": 0.90822871984574,
+            "available_sku_count": 23079
+        },
+        "290": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5852583526819,
+            "availability_rate": 0.90956672307269,
+            "available_sku_count": 23113
+        },
+        "291": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6044232812561,
+            "availability_rate": 0.91015701861399,
+            "available_sku_count": 23128
+        },
+        "292": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6004092715753,
+            "availability_rate": 0.90929125182008,
+            "available_sku_count": 23106
+        },
+        "293": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6035181614262,
+            "availability_rate": 0.91051119593877,
+            "available_sku_count": 23137
+        },
+        "294": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5748297981189,
+            "availability_rate": 0.90433276927315,
+            "available_sku_count": 22980
+        },
+        "295": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5790799260163,
+            "availability_rate": 0.91051119593877,
+            "available_sku_count": 23137
+        },
+        "296": {
+            "max_quantity": 15,
+            "avg_quantity": 4.5899807170123,
+            "availability_rate": 0.90933060485616,
+            "available_sku_count": 23107
+        },
+        "297": {
+            "max_quantity": 17,
+            "avg_quantity": 4.6135531856283,
+            "availability_rate": 0.90901578056747,
+            "available_sku_count": 23099
+        },
+        "298": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6013930974775,
+            "availability_rate": 0.91440714651135,
+            "available_sku_count": 23236
+        },
+        "299": {
+            "max_quantity": 17,
+            "avg_quantity": 4.5788438077998,
+            "availability_rate": 0.91031443075833,
+            "available_sku_count": 23132
+        },
+        "300": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6204399669434,
+            "availability_rate": 0.91196725827398,
+            "available_sku_count": 23174
+        },
+        "301": {
+            "max_quantity": 16,
+            "avg_quantity": 4.6071386407461,
+            "availability_rate": 0.90767777734052,
+            "available_sku_count": 23065
+        },
+        "302": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5794734563772,
+            "availability_rate": 0.90925189878399,
+            "available_sku_count": 23105
+        },
+        "303": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5907677777341,
+            "availability_rate": 0.90933060485616,
+            "available_sku_count": 23107
+        },
+        "304": {
+            "max_quantity": 15,
+            "avg_quantity": 4.627956396836,
+            "availability_rate": 0.90885836842312,
+            "available_sku_count": 23095
+        },
+        "305": {
+            "max_quantity": 18,
+            "avg_quantity": 4.5633780646177,
+            "availability_rate": 0.90696942269096,
+            "available_sku_count": 23047
+        },
+        "306": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5685726653811,
+            "availability_rate": 0.91003895950573,
+            "available_sku_count": 23125
+        },
+        "307": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5685726653811,
+            "availability_rate": 0.90543465428358,
+            "available_sku_count": 23008
+        },
+        "308": {
+            "max_quantity": 16,
+            "avg_quantity": 4.5941127858014,
+            "availability_rate": 0.91102278540789,
+            "available_sku_count": 23150
+        }
+    }
+}
